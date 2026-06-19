@@ -1,2 +1,11 @@
-# Caesar-Cipher-Tool
-A beginner-friendly Python tool demonstrating classical encryption using Caesar Cipher.
+# 🔐 Caesar Cipher Tool (Python)
+
+A simple Python implementation of the Caesar Cipher algorithm used for basic encryption and decryption.
+
+## ⚙️ Features
+- Encrypt messages
+- Decrypt messages
+- User-defined shift value
+- Handles uppercase & lowercase letters
+- Keeps spaces and symbols unchanged
+
